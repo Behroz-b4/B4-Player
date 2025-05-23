@@ -1,0 +1,2 @@
+This is a free HTML5-based web video player. It includes essential features such as Picture-in-Picture (PiP), fullscreen mode, play/pause controls, a volume slider, preview thumbnails, and fast performance. Additionally, it supports taking screenshots of the video, which can be downloaded easily. The player is lightweight, responsive, and compatible with all modern web browsers.
+![b4 player](https://github.com/user-attachments/assets/968033aa-82e6-474b-adec-4348e852cc94)
